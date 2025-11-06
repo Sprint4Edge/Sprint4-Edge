@@ -6,11 +6,11 @@
 ## 👥 Integrantes do Grupo
 | Nome | RM |
 |------|------|
-| Jean Rodrigues | RM000000 |
-| [Integrante 2] | RM000000 |
-| [Integrante 3] | RM000000 |
-| [Integrante 4] | RM000000 |
-| [Integrante 5] | RM000000 |
+| Jean Carlos Rodrigues         | RM566439 |
+| Giovanni Tarzoni Piccin       | RM564014 |
+| Enrico Gianni Nóbrega Puttini | RM561400 |
+| Henrique Infanti Coratolo     | RM561865 |
+| Bruno Lobosque                | RM561254 |
 
 ---
 
@@ -200,8 +200,14 @@ Para replicar o projeto:
 
 ---
 
+## 🧪 Simulação Online
+
+🔗 [Clique para testar no Wokwi](https://wokwi.com/projects/446815872629354497)
+
+---
+
 ## 🎥 Demonstração em Vídeo
-🔗 [Link para o vídeo da PoC (YouTube)](https://youtube.com)
+🔗 [Link para o vídeo da PoC (YouTube)](https://youtu.be/RXW5s48QxTU)
 
 ---
 
