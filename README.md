@@ -160,7 +160,7 @@ Cada leitura do sensor é enviada para o **Orion Context Broker** como uma entid
 ```
 
 ### 📸 Print da Integração:
-![Print da integração no Postman](https://imgur.com/a/R24Y42j)
+![Print da integração no Postman](https://i.imgur.com/s3PKHkX.png[/img])
 
 ---
 
