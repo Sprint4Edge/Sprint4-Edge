@@ -160,7 +160,7 @@ Cada leitura do sensor é enviada para o **Orion Context Broker** como uma entid
 ```
 
 ### 📸 Print da Integração:
-![Print da integração no Postman](https://i.imgur.com/3Tg8YqV.png)
+![Print da integração no Postman](https://imgur.com/a/R24Y42j)
 
 ---
 
@@ -181,8 +181,7 @@ Cada leitura do sensor é enviada para o **Orion Context Broker** como uma entid
 ├── 📁 docs/
 │   └── prints_integracao/
 │       └── postman.png
-├── 📄 README.md
-└── 📄 LICENSE
+└── 📄 README.md
 ```
 
 ---
@@ -192,7 +191,7 @@ Cada leitura do sensor é enviada para o **Orion Context Broker** como uma entid
 Para replicar o projeto:
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seuusuario/sprint4-edge-computing.git
+   git clone https://github.com/Sprint4Edge/Sprint4-Edge.git
    ```
 2. Abra o código no **Wokwi** ou **Arduino IDE**.
 3. Configure o **Wi-Fi** e o **broker MQTT**.
